@@ -42,8 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BubbleSort.cs" />
-    <None Include="Program.cs" />
+    <None Include="BubbleSort.cs" />
+    <Compile Include="SelectionSort.cs" />
+    <None Include="MergeSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

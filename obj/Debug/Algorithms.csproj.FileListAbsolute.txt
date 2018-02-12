@@ -5,3 +5,9 @@ c:\users\shrit\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.csprojRes
 c:\users\shrit\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 c:\users\shrit\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.exe
 c:\users\shrit\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+D:\SourceCode\Algorithms\bin\Debug\Algorithms.exe.config
+D:\SourceCode\Algorithms\obj\Debug\Algorithms.exe
+D:\SourceCode\Algorithms\obj\Debug\Algorithms.pdb
+D:\SourceCode\Algorithms\bin\Debug\Algorithms.exe
+D:\SourceCode\Algorithms\bin\Debug\Algorithms.pdb
+D:\SourceCode\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
