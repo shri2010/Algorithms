@@ -26,6 +26,11 @@ namespace Algorithms
 
         }
 
+        /// <summary>
+        /// Finding minimun element and moving it to front
+        /// </summary>
+        /// <param name="data"></param>
+        /// <returns></returns>
         private static int[] SelectionSortArray(int[] data)
         {
             int min = 0;

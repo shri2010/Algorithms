@@ -13,10 +13,7 @@ namespace Algorithms
               List<int> data = new List<int>();
               Parallel.ForEach(Console.ReadLine().Split(' '), (x) =>
               {
-
-
                   data.Add(Convert.ToInt32(x));
-                  
               }
               );
             
@@ -69,10 +66,7 @@ namespace Algorithms
                     data2[i] = dataValues[k];
                     k++;
                 }
-                
 
-               
-                
             }
 
             for (int n = start; n < data2.Length; n++)

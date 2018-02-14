@@ -30,6 +30,7 @@ namespace Algorithms
 
         }
 
+
         private static int[] BubbleSortArray(int[] dataValues)
         {
 
@@ -37,7 +38,7 @@ namespace Algorithms
             {
                 for (int j = i+1; j < dataValues.Length; j++)
                 {
-                    if (dataValues[i]>dataValues[j])
+                    if (dataValues[i]>dataValues[j]) // comparing each adjacement element
                     {
                         int temp = dataValues[i];
                         dataValues[i] = dataValues[j];
