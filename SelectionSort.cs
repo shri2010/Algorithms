@@ -16,7 +16,7 @@ namespace Algorithms
                 data.Add(Convert.ToInt32(element));
             });
 
-           int[] dataSet= SelectionSortArray(data.ToArray());
+            int[] dataSet= SelectionSortArray(data.ToArray());
 
             foreach (var item in dataSet)
             {

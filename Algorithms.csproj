@@ -43,7 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="BubbleSort.cs" />
-    <Compile Include="Quicksort.cs" />
+    <None Include="Quicksort.cs" />
+    <Compile Include="FibonacciUsingDP.cs" />
     <None Include="SelectionSort.cs" />
     <None Include="MergeSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
