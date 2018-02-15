@@ -47,7 +47,8 @@
     <None Include="FibonacciUsingDP.cs" />
     <None Include="SelectionSort.cs" />
     <None Include="MergeSort.cs" />
-    <Compile Include="LongestCommonWord.cs" />
+    <Compile Include="LongestCommonSequence.cs" />
+    <None Include="LongestCommonWord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
