@@ -44,9 +44,10 @@
   <ItemGroup>
     <None Include="BubbleSort.cs" />
     <None Include="Quicksort.cs" />
-    <Compile Include="FibonacciUsingDP.cs" />
+    <None Include="FibonacciUsingDP.cs" />
     <None Include="SelectionSort.cs" />
     <None Include="MergeSort.cs" />
+    <Compile Include="LongestCommonWord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
